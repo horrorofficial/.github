@@ -13,7 +13,7 @@
 | Language   | Example Repo |
 |------------|--------------|
 | C#         | [horrorgamingkeyauth.shop-CSHARP-Example](https://github.com/horrorofficial/CSHARP-Example) |
-| C++        | [horrorgamingkeyauth.shop[-CPP-Example](https://github.com/horrorofficial/HorrorAuth-CPP-Example) |
+| C++        | [horrorgamingkeyauth.shop-CSHARP-Example](https://github.com/horrorofficial/HorrorAuth-CPP-Example) |
 | Python     | [horrorgamingkeyauth.shop-Python-Example](https://github.com/horrorofficial/Python-Example) |
 | Java       | [horrorgamingkeyauth.shop-JAVA-API](https://github.com/horrorofficial/JAVA-Example) |
 | JavaScript | [horrorgamingkeyauth.shop-JS-Example](https://github.com/horrorofficial/javascript-Example) |
